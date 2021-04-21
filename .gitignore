@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+.vscode/
+.readmes/
 # delve output
 debug
 
