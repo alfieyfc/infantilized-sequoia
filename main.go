@@ -27,7 +27,7 @@ func main() {
 	tmpl = t
 
 	data = templateData{
-		Message: "It's running!",
+		Message: "I am Groot!",
 	}
 
 	addr := defaultAddr
